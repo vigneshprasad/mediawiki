@@ -125,3 +125,6 @@ $wgDefaultSkin = "vector";
 
 # End of automatically generated settings.
 # Add more configuration options below.
+
+wfLoadSkin( 'Tweeki' );
+$wgDefaultSkin = "tweeki";
